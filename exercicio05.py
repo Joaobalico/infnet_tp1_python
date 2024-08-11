@@ -13,19 +13,19 @@ print(fName)
 
 #Identifique uma variável no código
 
-# Resposta:
+# Resposta: fName.
 
 #Identifique uma string no código
 
-# Resposta:
+# Resposta: Mr
 
 # A linha 9 foi alterada para lName = "Thorpe". Como isso afeta a saída?
 
-#Resposta
+#Resposta: A saída não muda, pois a saída é o que consta na variável fName.
 
 # A linha 7 foi alterada para fName = "Mrs". Como isso afeta a saída?
 
-# Resposta
+# Resposta: A saída agora será Mrs ao imvés de Mr.
 
 
 ### Exemplo código 2
@@ -41,6 +41,8 @@ print(total3)
 # O que será gerado pelo programa?
 
 # Responda
+
+# O Programa irá imprimir o valor 15.
 
 
 ### Exemplo código 3
@@ -60,18 +62,22 @@ name3 = "Phoebe"
 # Quantas variáveis são usadas no programa?
 
 # Responda
+# 5 variáveis.
 
 # Qual seria o impacto de mudar print(name1, " e ", name4) para print(name1, " e ", name5) ?
 
 # Responda
+# Ao invés de imprimir Ross e Rachel, imprimirá Ross e Chandler.
 
 # Qual é o propósito do símbolo '+' em print(name1 + " e " + name4)
 
 # Responda
+# Este símbolo serve para concatenar strings. Nesse caso está concatenando as strings name1 com a string " e " e name4.
 
 # A linha print(name3) é adicionada ao final do código. Explique o que ele fará.
 
 # Responda
+# A linha print(name3) irá imprimir a string name3, que no caso é Joey no momento do print.
 
 
 """Ajuda! Meu código não funciona!

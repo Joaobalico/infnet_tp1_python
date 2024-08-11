@@ -12,3 +12,10 @@
 # h = altura
 
 # Escreva seu código aqui
+
+b = int(input("Digite a base do triângulo: "))
+h = int(input("Digite a altura do triângulo: "))
+
+A = (b * h) / 2
+
+print(A)

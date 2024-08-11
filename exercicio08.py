@@ -9,27 +9,29 @@
 
 # Adicione seu comentário aqui
 
+# Atribuindo os tempos de cada mangueira às variáveis
 time_green = 1.5
 time_blue = 1.2
 
 # Adicione seu comentário aqui
-
+# Transformando os tempos de cada mangueira em minutos ao invés de horas
 minutes_green = 60 * time_green
 minutes_blue = 60 * time_blue
 
 # Adicione seu comentário aqui
-
+# Calculando a taxa de enchimento de cada mangueira em piscinas por minuto
 rate_hose_green = 1 / minutes_green
 rate_hose_blue = 1 / minutes_blue
 
 # Adicione seu comentário aqui
-
+# Somando a taxa de enchimento das duas mangueiras
 rate_host_combined = rate_hose_green + rate_hose_blue
 
 # Adicione seu comentário aqui
-
+# Calculando o tempo total em minutos para encher a piscina usando ambas as mangueiras
 time = 1 / rate_host_combined
 
 # Escreva neste comentário qual será o valor de time no final da execução do código
 
 # Resposta
+# O valor de time será 40.0

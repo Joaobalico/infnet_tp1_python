@@ -14,7 +14,12 @@ name2 = "Slash"
 
 #Complete a linha para gerar todas as variáveis
 
-print(name1 + " and " + name2 + " and ")
+# Atribuindo Duff e Izzy às variáveis name3 e name4
+name3 = "Duff"
+name4 = "Izzy"
+
+# Imprimindo no console as váriaveis concatenadas com a string 'and'.
+print(name1 + " and " + name2 + " and " + name3 + " and " + name4)
 
 
 """Ajuda! Meu código não funciona!

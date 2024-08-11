@@ -14,3 +14,13 @@
 # h = altura
 
 # Escreva seu código aqui#
+
+c = int(input( "Digite o comprimento do paralelepípedo: "))
+
+l = int(input( "Digite a largura do paralelepípedo: "))
+
+h = int(input( "Digite a altura do paralelepípedo: "))
+
+V = c * l * h
+
+print(V)

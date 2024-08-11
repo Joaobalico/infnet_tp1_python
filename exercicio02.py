@@ -1,8 +1,8 @@
 # Exercício 2
 # Adapte o código para gerar sua própria mensagem e adicione comentários para mostrar o que ele faz.
 
-print("Hello World!")
-
+print("Olá Mundo! Estou codificando em Python!")
+# Esse código usa o comando print() para imprimir a mensagem(string) Olá Mundo! Estou codificando em Python!
 
 
 """Ajuda! Meu código não funciona!

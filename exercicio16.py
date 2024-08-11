@@ -6,3 +6,15 @@
 # Faça um programa que calcule o valor total que as quatro amigas levaram para o shopping. 
 
 # Escreva seu código aqui
+
+amiga1 = 240
+
+amiga2 = 2/3 * amiga1
+
+amiga3 = 3 * amiga2
+
+amiga4 = amiga2 + amiga3
+
+total = amiga1 + amiga2 + amiga3 + amiga4
+
+print(total)

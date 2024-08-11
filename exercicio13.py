@@ -12,3 +12,10 @@
 # l = largura
 
 # Escreva seu código aqui
+
+c = int(input( "Digite o comprimento do retângulo: "))
+l = int(input( "Digite a largura do retângulo: "))
+
+A = c * l
+
+print(A)

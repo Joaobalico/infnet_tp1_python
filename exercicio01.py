@@ -5,30 +5,30 @@
 print("Hello World!")
 
 # Minha previsão, adicione sua previsão como comentário
-# Remova esse comentário e escreva sua previsão
+# Pela minha previsão, ao executar o código, ele irá imprimir a string Hello World!
 
 # Tarefa - Investigar
 # Use comentários para responder às perguntas de investigação no código de exemplo.
 
 # Qual parte do código de exemplo é a instrução de saída?
 
-# Responda:
+# Responda: print()
 
 # Qual parte do código de exemplo é a string?
 
-# Responda:
+# Responda: Hello World!
 
 # Qual seria a saída do código print("I love Computing")?
 
-# Responda:
+# Responda: I love Computing
 
 # O que aconteceria se o código print("I love Comping") fosse executado?
 
-# Responda:
+# Responda: Executaria com sucesso, imprimindo a string I love Comping, apesar de ter um erro, não é um erro de sintaxe do Python, é um erro de escrita.
 
 # O que aconteceria se o código print("I love Computing" fosse executado?
 
-# Responda:
+# Responda: Iria dar erro de sintaxe, porque não foi fechada a string com os parênteses.
 
 
 
